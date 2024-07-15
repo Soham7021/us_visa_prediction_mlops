@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 artifact/*
+/notebook/boston_data_drift_report.html
+/notebook/data_drift_demo_evidently.ipynb
